@@ -21,12 +21,11 @@ function App() {
         <div className='w-[90%] ml-auto mr-auto flex flex-col md:flex-row gap-10 md:gap-5'>
           <div className='w-[100%] md:w-[50%] md:py-20 flex flex-col justify-center gap-10'>
             <h1 className='text-[34px] text-white md:text-[44px] font-bold font-poppins'>
-              Leaf Lock
+            Empower Your Day with Comfort and Confidence
             </h1>
             <p className='font-poppins text-white text-[16px] md:text-[18px]'>
-              Train your chatbots with your data from any file or website. Chat
-              to ask questions and find information, or embed it as a widget on
-              your website to assist your users.
+ Experience the perfect blend of safety, softness, and reliability for your peace of mind every day.
+
             </p>
           </div>
           <div className='w-[100%] md:w-[50%] flex justify-center items-center'>
