@@ -11,9 +11,12 @@ function App() {
       {/* Hero Section */}
 
       <div
-        className=' w-full bg-[#72A9B0] pt-9'
-        style={{ height: 'calc(100vh - 64px)' }}
-        id='Whoweare'
+        // className=' w-full bg-[#72A9B0] pt-9'
+        // style={{ height: 'calc(100vh - 64px)' }}
+        // id='Whoweare'
+        className="w-full bg-[#72A9B0] pt-9"
+  style={{ height: '100vh' }}
+  id="Whoweare"
       >
         <div className='w-[90%] ml-auto mr-auto flex flex-col md:flex-row gap-10 md:gap-5'>
           <div className='w-[100%] md:w-[50%] md:py-20 flex flex-col justify-center gap-10'>
@@ -29,7 +32,7 @@ function App() {
           <div className='w-[100%] md:w-[50%] flex justify-center items-center'>
             <img
               src={process.env.PUBLIC_URL + '/images/firstImage-removebg.png'}
-              className='h-full lg:h-[600px]'
+              className='h-full '
               alt='image'
             />
           </div>
@@ -40,7 +43,7 @@ function App() {
 
       <div
         style={{ height: 'calc(100vh)' }}
-        className='flex justify-center bg-[#ffb3c6]   pt-[50px] lg:pt-[10px] pb-9 '
+        className=' w-full flex justify-center bg-[#007b83]   pt-[50px] lg:pt-[10px] pb-9 '
       >
         <div className='w-[90%] md:w-[70%] flex flex-col items-center justify-center gap-5'>
           <div className='font-poppins md:text-[44px] text-[34px] text-center font-bold text-white'>
@@ -50,23 +53,23 @@ function App() {
             Explore and find out the perfect fit for you according to your flow!
           </div>
 
-          <div className='flex md:flex-row flex-col gap-5 pt-9 md:gap-[100px]'>
-            <div className='flex md:justify-center justify-start'>
-              {' '}
+          <div className='flex  w-full md:justify-between items-center mx-auto justify-center md:flex-nowrap md:gap-0 gap-6  flex-wrap'>
+            
+              
               <img
                 src={process.env.PUBLIC_URL + '/images/adult.png'}
                 className='md:w-[300px] w-[70%] '
                 alt='image'
               />
-            </div>
-            <div className='flex md:justify-center justify-end'>
-              {' '}
+            
+            
+              
               <img
                 src={process.env.PUBLIC_URL + '/images/ladies.png'}
                 className='md:w-[309px] w-[70%]'
                 alt='image'
               />
-            </div>
+            
           </div>
         </div>
       </div>
