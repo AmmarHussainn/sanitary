@@ -75,7 +75,7 @@ function App() {
 
       {/* Info Section */}
       <div
-        style={{ height: 'calc(100vh)' }}
+         style={{ height: '100vh' }}
         className='flex justify-center  bg-[#ddb892] pt-[50px] lg:pt-[10px] pb-9 '
         id='contactus'
       >
