@@ -14,7 +14,7 @@ function App() {
         // className=' w-full bg-[#72A9B0] pt-9'
         // style={{ height: 'calc(100vh - 64px)' }}
         // id='Whoweare'
-        className="w-full bg-[#72A9B0] pt-9"
+        className="w-full bg-[#72A9B0] pt-9 pb-4 md:pb-0"
   style={{ height: '100vh' }}
   id="Whoweare"
       >
@@ -76,7 +76,7 @@ function App() {
       {/* Info Section */}
       <div
          style={{ height: '100vh' }}
-        className='flex justify-center  bg-[#ddb892] pt-[50px] lg:pt-[10px] pb-9 '
+        className='flex justify-center  bg-[#ddb892] pt-[50px] lg:pt-[10px] pb-12 md:pb-9 '
         id='contactus'
       >
         <div className='w-[90%] md:w-[90%] flex flex-col items-center justify-center gap-5'>
