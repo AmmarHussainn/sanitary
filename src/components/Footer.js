@@ -5,10 +5,16 @@ export const Footer = () => {
   <>
   <footer className="bg-gray-100">
   <div className="mx-auto max-w-5xl px-4 py-16 sm:px-6 lg:px-8">
-    <div className="flex justify-center text-teal-600">
+    <div className="flex justify-center md:flex-nowrap flex-wrap  gap-6 text-teal-600">
    
     <img
               src={process.env.PUBLIC_URL + '/images/ladies.png'}
+             className='h-[70px]'
+              alt='image'
+            />
+
+<img
+              src={process.env.PUBLIC_URL + '/images/adult.png'}
              className='h-[70px]'
               alt='image'
             />

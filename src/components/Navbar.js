@@ -29,7 +29,7 @@ export default function Navbar() {
       >
         <div className='flex lg:flex-1'>
           <a href='/' className='-m-1.5 p-1.5 text-[#ffffff] font-semibold text-2xl font-sans'>
-          Leaflock
+          Leaklock
           </a>
         </div>
         <div className='flex lg:hidden'>
@@ -124,7 +124,7 @@ export default function Navbar() {
                 src={process.env.PUBLIC_URL + '/nixorlogo.jpeg'}
                 className=' w-[50px]'
                 /> */}
-                Leaflock
+                Leaklock
             </a>
             <button
               type='button'
