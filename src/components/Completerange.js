@@ -4,7 +4,7 @@ export const Completerange = () => {
   return (
     <div
     style={{ height: 'calc(100vh)' }}
-    className=' w-full flex justify-center bg-[#72A9B0]   pt-[50px] lg:pt-[10px] pb-9 '
+    className=' w-full flex justify-center bg-[#007b83]    pt-[50px] lg:pt-[10px] pb-9 '
   >
     <div className='w-[90%] md:w-[70%] flex flex-col items-center justify-center gap-5'>
       <div className='font-poppins md:text-[44px] text-[31px] text-center font-bold text-white'>

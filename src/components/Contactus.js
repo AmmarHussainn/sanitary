@@ -4,7 +4,7 @@ export const Contactus = () => {
   return (
     <div
     style={{ height: '100vh' }}
-    className='flex justify-center  bg-[#ddb892] pt-[50px] lg:pt-[10px] pb-12 md:pb-9 '
+    className='flex justify-center  bg-[#72A9B0] pt-[50px] lg:pt-[10px] pb-12 md:pb-9 '
     id='contactus'
   >
     <div className='w-[90%] md:w-[90%] flex flex-col items-center justify-center gap-5'>
