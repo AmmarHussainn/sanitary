@@ -57,9 +57,9 @@ export const Contactus = () => {
                     Our Address
                   </h3>
                   <p class='text-white dark:text-white'>
-                    1230 Maecenas Street Donec Road
+                    1230 392/1-2 Sector 7-A 
                   </p>
-                  <p class='text-white dark:text-white'>New York, EEUU</p>
+                  <p class='text-white dark:text-white'>Korangi Industrial Area karachi</p>
                 </div>
               </li>
               <li class='flex'>
@@ -86,10 +86,11 @@ export const Contactus = () => {
                     Contact
                   </h3>
                   <p class='text-white dark:text-white'>
-                    Mobile: +1 (123) 456-7890
+                    Mobile: +92-301-2969104
                   </p>
                   <p class='text-white dark:text-white'>
-                    Mail: tailnext@gmail.com
+                    Mail: reliable1enterprises@gmail.com
+
                   </p>
                 </div>
               </li>
@@ -116,10 +117,7 @@ export const Contactus = () => {
                     Working hours
                   </h3>
                   <p class='text-white dark:text-white'>
-                    Monday - Friday: 08:00 - 17:00
-                  </p>
-                  <p class='text-white dark:text-white'>
-                    Saturday &amp; Sunday: 08:00 - 12:00
+                    Monday - Friday: 06:00 am - 5:00 pm
                   </p>
                 </div>
               </li>
