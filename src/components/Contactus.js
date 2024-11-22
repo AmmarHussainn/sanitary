@@ -94,7 +94,7 @@ export const Contactus = () => {
 
                   </p>
                   <p class='text-white dark:text-white'>
-                    Mail: reliable1enterprises@gmail.com
+                    Mail: Reliableleaklock@gmail.com
 
                   </p>
                 </div>
